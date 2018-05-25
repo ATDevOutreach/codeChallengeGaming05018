@@ -1,5 +1,5 @@
 # Unity3D Game Dev Code Challenge - 16th May 2018
-## Due: 31st May or Earlier
+## Due: 7th June or Earlier
 This code challenge is due on the 25th of May or earlier. This means that by the 25th, or as soon as 10 developers send us a pull request with the correctly working code, they get to win.
 
 #### About Africa's Talking Code Challenges
